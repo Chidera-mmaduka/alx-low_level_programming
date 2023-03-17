@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 include <stdio.h>
+=======
+#include <stdio.h>
+>>>>>>> 7e5e531902213891d4532713fe4894945a18b15b
 #include <stdlib.h>
 #include <time.h>
 /**
