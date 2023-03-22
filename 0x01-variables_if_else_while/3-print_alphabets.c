@@ -10,8 +10,9 @@
 int main(void)
 {
 	int A;
+	int B;
 	/**
-	 * while: this fucntion is used to loop the program till a condition is met
+	 * for: this fucntion is used to loop the program till a condition is met
 	 *
 	 * putchar is used to print a single char to the std output
 	 *
@@ -19,6 +20,10 @@ int main(void)
 	for (A = 'a'; A <= 'z'; A++)
 	{
 		putchar(A);
+	}
+	for (B = 'A'; B <= 'Z'; B++)
+	{
+		putchar(B);
 	}
 	putchar('\n');
 	return (0);
